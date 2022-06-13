@@ -1,2 +1,0 @@
-# mithat
-Calculator
